@@ -8,4 +8,5 @@ plugins/
 *.pyc
 
 # Data hasil scraping
-scraper/output/
+scraper/output/*
+!scraper/output/*.json
