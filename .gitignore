@@ -1,0 +1,11 @@
+# Environments
+.env
+
+# Python & Airflow
+__pycache__/
+logs/
+plugins/
+*.pyc
+
+# Data hasil scraping
+scraper/output/
